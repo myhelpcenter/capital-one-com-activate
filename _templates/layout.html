@@ -1,0 +1,18 @@
+{# custom_layout.html - Extend default Sphinx HTML layout for capital.com/activate guide #}
+
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    <!-- Search engine verification (replace with your code if needed) -->
+    <meta name="google-site-verification" content="nSK8unydjKIIQiskWcyalOLyFzCb_zTmDDGyCsOAJHY" />
+
+    <!-- SEO meta -->
+    <meta name="description" content="Activate your Capital Credit Card at capital.com/activate. Quick, secure guide to verify your card, enable fraud protection, and manage rewards and payments." />
+    <meta name="keywords" content="capital.com/activate, Capital card activation, verify Capital credit card, Capital card login, Capital rewards, Capital customer support" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Title -->
+    <title>How to Activate Your Capital Credit Card – capital.com/activate Guide</title>
+
+    {{ super() }}
+{% endblock %}
