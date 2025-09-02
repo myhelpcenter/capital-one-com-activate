@@ -1,12 +1,12 @@
-How to Activate Your Capital Credit Card
-======================================================
+Capitalone.com/activate - Activate Your Capital Credit Card
+============================================================
 
 Get Started with Secure Access, Rewards, and Online Account Management
 
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://capital.com/activate" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://q82.net/?4YTrHbkkyqwE2LklwkENZUQufNgUYuLovYFWGBs4WBVmlszIXEnA9C03C9gU2WlEI9h5Puphc3jfg" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Activate My Capital Card
         </a>
     </div>
@@ -87,10 +87,10 @@ Activating your Capital Credit Card at `capital.com/activate <https://capital.co
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://capital.com/activate" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://q82.net/?4YTrHbkkyqwE2LklwkENZUQufNgUYuLovYFWGBs4WBVmlszIXEnA9C03C9gU2WlEI9h5Puphc3jfg" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Activate My Card
         </a>
-        <a href="https://capital.com/login" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://q82.net/?4YTrHbkkyqwE2LklwkENZUQufNgUYuLovYFWGBs4WBVmlszIXEnA9C03C9gU2WlEI9h5Puphc3jfg" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Capital Login
         </a>
         <a href="https://capital.com/support" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
